@@ -14,4 +14,3 @@ This project started life because I wanted to explore the use of Open Source Har
 ###Using this project
 
 The on-going work on this project and the decisions that led to the current outcome can be viewed on [my blog](http://unknowndomain.co.uk). This github repository acts as the source of finished files and outcome, the wiki will be where the instructions are documented in the end.
-
